@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.ConverterTabsJava" parent="Base.Theme.ConverterTabsJava" />
+    <item name="colorPrimary" type="color">#6750A4</item>
+    <item name="colorSecondary" type="color">#03DAC5</item>
 </resources>
